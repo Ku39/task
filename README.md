@@ -1,6 +1,6 @@
 # Выполнение тестового задания.
 
-<h2><a href="https://www.example.com](https://docs.google.com/spreadsheets/d/1qRChqp3aXRq7Rwvd54r_rYIS7ityWcRsvBU0DoQhgcY/edit?usp=sharing)" target="_blank">Ссылка на таблицу</a></h2>
+### [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1qRChqp3aXRq7Rwvd54r_rYIS7ityWcRsvBU0DoQhgcY/edit?usp=sharing)
 
 ### Для запуска скрипта необходимо:
 
